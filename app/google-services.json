@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "422908370901",
+    "firebase_url": "https://bcal-1b4e3.firebaseio.com",
+    "project_id": "bcal-1b4e3",
+    "storage_bucket": "bcal-1b4e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422908370901:android:04651337a9601ed7",
+        "android_client_info": {
+          "package_name": "edu.scu.bCal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422908370901-gc8bdlmgblqspaprn145q17m3l9roeut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.scu.bCal",
+            "certificate_hash": "1628b3101469cb52c9580604cefa3734c88b9552"
+          }
+        },
+        {
+          "client_id": "422908370901-lli6lob9s297k53hkim6m7bsq819p79h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.scu.bCal",
+            "certificate_hash": "64cc471337e5a1cbf810f3e5bc41da6c042ffa36"
+          }
+        },
+        {
+          "client_id": "422908370901-sok13s99dvtagl0202ub55pf7fhqkup9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtrbHkHR_wl4fQzSE8NjiRSos4VUiEpz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422908370901-sok13s99dvtagl0202ub55pf7fhqkup9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422908370901:android:b556b778c0e42cd4",
+        "android_client_info": {
+          "package_name": "edu.scu.bcal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422908370901-tml0oc5g3tgdkvmrb1tshq1720k0p5gm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.scu.bcal",
+            "certificate_hash": "64cc471337e5a1cbf810f3e5bc41da6c042ffa36"
+          }
+        },
+        {
+          "client_id": "422908370901-sok13s99dvtagl0202ub55pf7fhqkup9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtrbHkHR_wl4fQzSE8NjiRSos4VUiEpz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422908370901-sok13s99dvtagl0202ub55pf7fhqkup9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
